@@ -1,0 +1,1 @@
+const loadtext = document.querySelector('.loading-text')
